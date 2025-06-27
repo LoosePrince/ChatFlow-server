@@ -1,4 +1,4 @@
-# ChatFlow-client
+# ChatFlow-server
 
 ## 现代化实时聊天应用 - 后端
 
